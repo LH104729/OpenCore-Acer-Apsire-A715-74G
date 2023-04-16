@@ -1,0 +1,1 @@
+# OpenCore-Acer-Apsire-A715-74G
